@@ -1,5 +1,7 @@
 # HR-DataBase-Applications-Lab1
- Consider the EMP and DEPT tables for the following queries
+Applied Exercises on Oracle Database 11g
+ 
+#### Consider the EMP and DEPT tables for the following queries
 #### 1.[Retrieve a list of *MANAGERS*.](https://github.com/jdcollahuazo1/HR-Database-Applications/blob/main/Date.sql)
 #### 2.[Find out salary of both *MILLER* and *SMITH*.](https://github.com/jdcollahuazo1/HR-Database-Applications/blob/main/Date.sql)
 #### 3.[Find out the names and salaries of all employees earning more than 1000 per month.](https://github.com/jdcollahuazo1/HR-Database-Applications/blob/main/Date.sql)
